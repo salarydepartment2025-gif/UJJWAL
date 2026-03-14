@@ -1,0 +1,5 @@
+{
+  "name": "Labour KYC Form",
+  "description": "A mobile-friendly Bank Payment KYC Form for employees and labour with photo capture and PDF generation.",
+  "requestFramePermissions": ["camera"]
+}
